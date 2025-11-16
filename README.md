@@ -2,23 +2,37 @@
 
 # Figuelia Ya'Sin
 
-Hello, GitHub! 👋
+Hello, GitHub! 👋  
+I'm **Figuelia Ya'Sin**, a **Software Developer at Spoonconsulting LTD**, passionate about computer science, web development, machine learning, and building impactful software solutions.  
+Welcome to my GitHub profile! 🚀
 
-I'm Figuelia Ya'Sin, a Software Developer at Spoonconsulting LTD and  interested in computer science, web development, machine learning... . Welcome to my GitHub profile!
+---
 
 ## About Me
 
-- I'm actually from Madagascar and graduate from BYU Idaho in Software Engineering
-- I'm passionate about Software Development and learning new technologies 🔭 😄
+- 🌍 From **Madagascar**  
+- 🎓 Graduate in **Software Engineering** from **Brigham Young University – Idaho**  
+- 💻 Passionate about **software development**, problem-solving, and continuous learning  
+- 🔭 Always exploring new technologies and improving my skills  
 
-## Technologies and Tools
+---
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+## Technologies & Tools
+
+- **Languages:** Java, JavaScript/TypeScript, Python, Groovy  
+- **Backend:** Node.js (Express), Java Spring Boot, XtendM3 (Infor M3), MI Programs  
+- **Frontend:** React, HTML, CSS  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Docker, Postman, VS Code, IntelliJ  
+
+---
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/figuelia-yasin/) profile
-- Email me at [email](figueliayasin98@gmail.com) 📫
+- 🔗 **LinkedIn:** [linkedin.com/in/figuelia-yasin](https://www.linkedin.com/in/figuelia-yasin/)  
+- 📫 **Email:** figueliayasin98@gmail.com  
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+---
+
+Feel free to explore my repositories — and don’t hesitate to reach out.  
+**Happy coding! 🚀**
